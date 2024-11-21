@@ -22,8 +22,8 @@ Generates realistic filenames and file paths for various digital media formats. 
    - 🎲 Random (randomly selects a format)
    - 📷 Camera Brands: Nikon, Canon, Fujifilm, Sony, Panasonic, Casio, Generic
    - 📱 Mobile Devices: Android, iPhone (HEIC/JPEG), Pixel, Samsung
-   - 🖥️ Screenshots: Windows, macOS
-   - 🎥 Video/Social: VLC, WhatsApp, Instagram, Facebook, Snapchat, TikTok
+   - 🖥️ Screenshots: Windows, macOS, VLC
+   - 🎥 Video/Social: WhatsApp, Instagram, Facebook, Snapchat, TikTok
    - 🚁 Drones: DJI, Mavic
    - 📹 Action/Security: GoPro, Dashcam, Security Camera, CCTV
    - 🤿 Specialty: Underwater, Aerial
