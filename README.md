@@ -31,7 +31,7 @@ Filenames as prompts are not a magic bullet, but they can produce interesting ef
    - 🔬 Scientific: Macro, Thermal Imaging
    - 🌌 Advanced Imaging: Astro Photography, Satellite Imagery
    - 🖼️ Special: 3D Scan
-   - ❓ Misc: Various other formats 
+   - ❓ Misc: Various other 'formats' 
 
 4. **Path**: Choose between:
    - Disabled: No path
